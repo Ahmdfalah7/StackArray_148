@@ -25,4 +25,5 @@ public:
 
 		return element;
 	}
-	
+	void pop() {
+		
